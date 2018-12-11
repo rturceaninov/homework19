@@ -1,0 +1,24 @@
+{
+  "name": "homework19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rturceaninov/homework19.git"
+  },
+  "author": "Ruslan Turceaninov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rturceaninov/homework19/issues"
+  },
+  "homepage": "https://github.com/rturceaninov/homework19#readme",
+  
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "gitignore": "^0.6.0"
+  }
+}
